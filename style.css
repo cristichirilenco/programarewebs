@@ -1,0 +1,31 @@
+h1{
+            color:rgb(151, 3, 3);
+            background-color: aqua;
+            text-decoration: dashed;
+            text-align: center;
+}
+
+p{
+    color: slategray;
+    text-align: center;
+    line-height: 30px;
+    letter-spacing: 3px;
+}
+
+
+ul{
+    /* border-width: 10px;
+    border-style: dotted;
+    border-color: aqua; */
+    border-left: 17px solid rgb(1, 241, 1);
+    border-right: 15px solid rgb(7, 206, 233);
+    border-top: 20px dashed rgb(0, 4, 255);
+
+}
+
+li{
+    list-style-type: none;
+    text-shadow: 2px 2px rgb(39, 61, 104);
+    font-size:35px ;
+}
+
